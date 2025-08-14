@@ -24,4 +24,4 @@ This project allows me to initiate voice calls to contacts in Ukraine who only h
 ---
 
 🔐 All credentials are kept private.  
-👨‍💻 Developer: O.E. (Ochk Yevtikhiy)
+👨‍💻 Developer: O.E. (Ochk Evtihiy)
